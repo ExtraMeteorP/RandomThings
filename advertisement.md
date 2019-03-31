@@ -1,2 +1,1 @@
-["Click Here... [",{"text":"SupportMe","color":"green","hoverEvent":{"action":"show_text","value":{"text":"SupportMe","color":"green"}},"clickEvent":{"action":"open_url","value":"https://afdian.net/@MeteorGo"}},"]]
-HELP ME
+[{"text":"HELP ME","color":"aqua"},{"text":"Patreon","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click this to go to ExtraMeteorP's Patreon","color":"light_purple"}},"clickEvent":{"action":"open_url","value":"https://afdian.net/@MeteorGo"}},{"text":"]!","color":"aqua"}]
