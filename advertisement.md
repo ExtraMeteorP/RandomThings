@@ -1,1 +1,1 @@
-[{"text":"HELP ME!! ","color":"aqua"},{"text":"Click This","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click this to go to ExtraMeteorP's Patreon","color":"light_purple"}},"clickEvent":{"action":"open_url","value":"https://afdian.net/@MeteorGo"}},{"text":"]!","color":"aqua"}]
+[{"text":"HELP ME!! ","color":"aqua"},{"text":"Click This","color":"gold","hoverEvent":{"action":"show_text","value":{"text":"Click this to go to ExtraMeteorP's Patreon","color":"light_purple"}},"clickEvent":{"action":"open_url","value":"https://afdian.net/@MeteorGo"}}]
